@@ -98,7 +98,7 @@ float:left;margin-right:5px;margin-bottom:5px;-ms-interpolation-mode:bicubic}
 
 div.maruku_toc ul {
     text-align:center;
-    margin-left: 1em;
+    margin: 10 auto;
 }
 
 div.maruku_toc li {

@@ -21,7 +21,9 @@ The University of Tennessee
 ---
 
 # about  
+**History 561: Readings in the Colonial Andes**  
 
+This readings seminar will expose students to the historiography of the colonial Andean region, with works both old and new. We will focus on major issues, theoretical debates, and themes that have shaped the field. The course will particularly focus on relationships of culture, power, and authority in the post-conquest Andes, with an eye to how race, gender, and ethnicity manifested these relationships. Thus, we will consider conquest, religion, slavery, family, communication and revolt in the Andean world from 1530-1800.
 # readings
 
 # requirements
