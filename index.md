@@ -5,7 +5,9 @@ title: Home
 
 ## Welcome
 
-Welcome to History 561: Readings in Colonial Andean History. During the course of this semester, we will read a large number of books, both classic and recent, in order to gain a firm grounding in the historiography of the colonial Andes. During this course, we will consider the Andean region to encompass largely the territory occupied by the Inka Empire on the eve of the conquest, stretching from the south of modern-day Colombia to the north of modern-day Chile. But, we won't be restricting ourselves to the mountains. Andean society, with its archipelago of microclimates and production zones, spanned the region from the eastern foothills in Amazonia to the Pacific coast. And so shall we.  
+Welcome to History 561: Readings in Colonial Andean History. This readings seminar will expose students to the historiography of the colonial Andean region, with works both old and new. We will focus on major issues, theoretical debates, and themes that have shaped the field. The course will particularly focus on relationships of culture, power, and authority in the post-conquest Andes, with an eye to how race, gender, and ethnicity manifested these relationships. Thus, we will consider conquest, religion, slavery, family, communication and revolt in the Andean world from 1530-1800.
+
+During this course, we will consider the Andean region to encompass largely the territory occupied by the Inka Empire on the eve of the conquest, stretching from the south of modern-day Colombia to the north of modern-day Chile. But, we won't be restricting ourselves to the mountains. Andean society, with its archipelago of microclimates and production zones, spanned the region from the eastern foothills in Amazonia to the Pacific coast. And so shall we.  
 
 The course website is divided into three different sections:
 
