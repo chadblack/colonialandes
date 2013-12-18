@@ -106,3 +106,10 @@ div.maruku_toc li {
     padding-right: 2em;
 }
 
+article.schedule div.maruku_toc ul{
+    display: block;
+    text-align:left;
+}
+article.schedule div.maruku_toc li {
+    display: block;
+}
