@@ -3,7 +3,7 @@ layout: schedule
 title: Calendar of Readings
 ---
 
-## schedule  
+### schedule  
 
 * A Table of Contents
 {:toc }

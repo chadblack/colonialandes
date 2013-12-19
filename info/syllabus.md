@@ -4,7 +4,7 @@ layout: default
 title: Syllabus
 ---
 
-## History 561: Readings in Colonial Andean History
+### History 561: Readings in Colonial Andean History
 
 **Dr. Chad Black**   
 The University of Tennessee  
