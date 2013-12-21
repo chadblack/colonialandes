@@ -53,7 +53,7 @@ We have a long list of books for this semester. Whenever possible, I chose books
 *  Hemming, John. *The Conquest of the Incas*. Mariner Books, 2003.
 *  Lamana, Gonzalo. *Domination without Dominance*, Duke University Press, 2008.
 *  Lockhart, James and Stuart Schwartz, *Early Latin America*. Cambridge University Press, 1983. 
-*  Mangan, Jane. *Trading Places: Gender, Ethnicity, and the Urban Economy in Colonial Potosí. Duke University Press, 2005.
+*  Mangan, Jane. *Trading Places: Gender, Ethnicity, and the Urban Economy in Colonial Potosí.* Duke University Press, 2005.
 *  Mills, Kenneth. *Idolatry and its Enemies: Colonial Andean Religion and Extirpation, 1640-1750*. Duke University Press, 2012.
 *  Niles, Susan. *The Shape of Inca History: Narrative and Architecture in an Andean Empire*. University of Iowa Press, 1999. (on MUSE)
 *  O'Toole, Rachel Sarah. *Bound Lives: Africans, Indians, and the Making of Race in Colonial Peru*. Pittsburgh University Press, 2012. (on MUSE)
