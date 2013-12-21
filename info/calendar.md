@@ -3,7 +3,8 @@ layout: schedule
 title: Calendar of Readings
 ---
 
-### schedule  
+schedule  
+{:.sortah1}
 
 * A Table of Contents
 {:toc }
@@ -18,32 +19,32 @@ title: Calendar of Readings
 * Mark Thurner, *History's Peru* (MUSE)
 
 # Week 3 -- The Inka (January 28) 
-*  Dean, *Inka Stone*
+*  Dean, *A Culture of Stone*
 *  Niles, *The Shape of Inca History*  (on MUSE)
 
 # Week 4 -- Chronicling Conquest (February 4)
-*  Titus Cusi Yupangi  
-*  Pedro Cieza de Leon  
+*  Titu Cusi Yupangi, *An Inca Account of the Conquest of Peru*    
+*  Pedro Cieza de Leon, *The Discovery and Conquest of Peru*    
 
 # Week 5 -- The 19th Century Narrative (February 11)  
-*  Prescott  
+*  Prescott, *History of the Conquest of Peru*
 or
-*  Hemming
+*  Hemming, *The Conquest of the Incas*
 
 # Week 6 -- New Conquest History (February 18)   
-*  Peter Gose, *Invading Ancestors*  
-*  *Domination without Dominance*  
+*  Peter Gose, *Invading as Ancestors*  
+*  Gonzalo Lamana, *Domination without Dominance*  
 
 # Week 7 -- The Regional Approach (February 25)   
 *  Stern, *Peru's Indian Peoples*  
 *  Cook and Cook, *People of the Volcano*  
 
 # Week 8 -- Religion, Extirpation, Inquisition (March 4) 
-*  Mills, Idolatry and Its Enemies
-*  Silverblatt, Modern Inquisitions
+*  Mills, *Idolatry and Its Enemies*
+*  Silverblatt, *Modern Inquisitions*
 
 # Week 9 -- Literacies, European and Indigenous (March 11)   
-*  Rama, *Lettered City*  
+*  Rama, *The Lettered City*  
 *  Rappaport and Cummins, *Beyond the Lettered City* (MUSE) 
 
 # Week 10 -- Spring Break (March 18)  
