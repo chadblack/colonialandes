@@ -65,12 +65,27 @@ We have a long list of books for this semester. Whenever possible, I chose books
 *  Stavig, Ward. *The World of Tupac Amaru: Conflict, Identity, and Community in Colonial Peru*. University of Nebraska Press, 1999. 
 *  Stern, Steve. *Peru's Indian Peoples and the Challenges of Spanish Conquest: Huamanga to 1640*. University of Wisconsin Press, 1993.
 *  Thurner, Mark. *History's Peru: The Poetics of Colonial and Postcolonial Historiography*. University of Florida Press, 2012. (on MUSE)
-*  Walker, Charles. *Shkay Colonialism: The 1746 Earthquake-Tsunami in Lima, Peru, and its Long Aftermath*. Duke University Press, 2008.
+*  Walker, Charles. *Shaky Colonialism: The 1746 Earthquake-Tsunami in Lima, Peru, and its Long Aftermath*. Duke University Press, 2008.
 *  Warren, Adam. *Medicine and Politics in Colonial Peru: Population Growth and the Bourbon Reforms*. University of Pittsburgh Press, 2010. (on MUSE)
 
 
 
 # requirements
 
+See the [Assignments](http://colonialandes.chadblack.net/info/assignments) page for more information.
+
+1. *Reading and Participation*. Each week's assigned readings must be completed before class. Attendance is mandatory. If you cannot make class for any reason, please contact me ahead of time.  
+
+2. *Leading Discussion* (20% of grade). Each student will be responsible for leading discussion once during the semester. Students should submit via email, no later than Monday morning, questions or observations for discussion for that week. 
+
+3. *Review Essays* (80% of grade). Students must write seven review essays during the course of the semester, drawn from weeks in which two books are assigned (Weeks 3, 4, 6-9, 11-15). For a fuller description, see the Assignments page.  
+
 # policies  
 
+![](http://chadblack.net/511S2012/media/images/disability.png)Qualified students with disabilities needing appropriate academic adjustments should contact me as soon as possible to ensure that your needs are met in a timely manner with appropriate documentation.
+
+Plagiarism: Plagiarism occurs when someone knowingly or unknowingly presents another person's words or ideas as his or her own. Any work turned in for this class must meet University standards for academic honesty. Any students unsure about how to apply these rules are urged to consult with me prior to turning in any written work.
+
+Deadlines: Assignments are due no later than the day and time indicated. If you anticipate problems, please contact me before the assignment is due, not after!
+
+Office Hours: Students are strongly encouraged to speak with me outside of class. I am available during office hours on a first-come, first-served basis. If you cannot come during office hours, please contact me via email or phone to schedule an appointment.
