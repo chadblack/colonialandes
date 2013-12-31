@@ -13,7 +13,7 @@ schedule
 
 # Week 1 -- Welcome (January 14)
 *  Lockhart and Schwartz, **ELA**
-*  Lockhart, "Social History of ELA"
+*  Lockhart, ["Social History of ELA"](http://chadblack.net/media/readings/lockhartELA.pdf)
 
 # Week 2 -- Situating Andean History (January 21) 
 * Mark Thurner, *History's Peru* (MUSE)
