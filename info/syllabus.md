@@ -76,9 +76,9 @@ See the [Assignments](http://colonialandes.chadblack.net/info/assignments) page 
 
 1. *Reading and Participation*. Each week's assigned readings must be completed before class. Attendance is mandatory. If you cannot make class for any reason, please contact me ahead of time.  
 
-2. *Leading Discussion* (20% of grade). Each student will be responsible for leading discussion once during the semester. Students should submit via email, no later than Monday morning, questions or observations for discussion for that week. 
+2. *Leading Discussion* (30% of grade). Each student will be responsible for leading discussion once during the semester. Students should submit via email, no later than Monday morning, questions or observations for discussion for that week. 
 
-3. *Review Essays* (80% of grade). Students must write seven review essays during the course of the semester, drawn from weeks in which two books are assigned (Weeks 3, 4, 6-9, 11-15). For a fuller description, see the Assignments page.  
+3. *Review Essays* (70% of grade). Students must write seven review essays during the course of the semester, drawn from weeks in which two books are assigned (Weeks 3, 4, 6-9, 11-15). For a fuller description, see the Assignments page.  
 
 # policies  
 
