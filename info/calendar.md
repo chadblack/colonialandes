@@ -11,6 +11,15 @@ schedule
 
 ---
 
+# resources to read better
+
+A quick note on reading for this class... We have a lot of reading assigned for this course, more than some of you may be accustomed to. Reading well as a graduate student is an art, and a learned behavior. It's not something that you intuit simply by being literate. Here are a few resources to help you strategize your reading for this semester (and, for that matter, in preparing for comps).  
+
+*  W. Caleb McDaniel, [How to Read for History](http://wcm1.web.rice.edu/howtoread.html)
+*  Paul Edwards, [How to Read a Book](http://pne.people.si.umich.edu/PDF/howtoread.pdf) (pdf) 
+*  From William Cronon's [Learning to Do Historical Research](http://www.williamcronon.net/researching/index.htm), Cathy DeShano and Emma Schroeder's [The Pleasures of Note-Taking](http://www.williamcronon.net/researching/notetaking.htm)
+
+
 # Week 1 -- Welcome (January 14)
 *  Lockhart and Schwartz, **ELA**
 *  Lockhart, ["Social History of ELA"](http://chadblack.net/media/readings/lockhartELA.pdf)
