@@ -1,4 +1,5 @@
-name: History 561 
+title: History 561 
 pygments: true
 permalink: pretty
-base_url: /colonialandes
+baseurl: "/colonialandes"
+url: "http://chadblack.github.io"
